@@ -11,6 +11,11 @@ Lo studente registrato nel sistema può listare le lezioni disponibili che avran
 ## Installare Python
 - Versione utilizzata: 3.10
 
+## Clonare la repository
+```bash
+git clone https://github.com/miriamcalandri-unipg/PrenotaPostoLezioneBot.git
+```
+
 ## Installare i requisiti
 - All'interno del proprio ambiente di programmazione, eseguire il comando:
 ```bash
