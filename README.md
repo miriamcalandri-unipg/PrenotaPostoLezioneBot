@@ -18,7 +18,7 @@ pip install -r requirements.txt
 ```
 ## Creare il database
 - Il bot supporta [SQLiteCloud](https://www.sqlite.ai/)
-- Le istruzioni sono presenti nel file [database.sql](/PrenotaLezioneBot/database/database.sql)
+- Le istruzioni sono presenti nel file [database.sql](/database/database.sql)
 
 ## Creare un file .env con le configurazioni
 ```env
