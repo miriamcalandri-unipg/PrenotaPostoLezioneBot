@@ -6,6 +6,7 @@ Lo studente registrato nel sistema può listare le lezioni disponibili che avran
 
 ### Autori:
 - Miriam Calandri
+- Stefania Fiorelli
 
 ## Installare Python
 - Versione utilizzata: 3.10
