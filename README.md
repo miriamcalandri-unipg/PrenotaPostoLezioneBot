@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```env
 TOKEN = "insert-your-telegram-bot-token"
 EMAIL_PASSWORD = "insert-your-google-app-email-password"
-CONN_DB = "inser-your-sqlite-db-connection-string"
+CONN_DB = "insert-your-sqlite-db-connection-string"
 ```
 ## Avviare il bot
 ```bash
